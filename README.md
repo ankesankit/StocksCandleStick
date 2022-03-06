@@ -1,1 +1,1 @@
-# StocksCandleStick
+# InstrumentsCandleStick
